@@ -1,0 +1,10 @@
+**/libs/
+**/obj/
+**.o
+**.mod.c
+**.ko
+**.symvers
+**.order
+**.idea
+**.mod
+**.cmd
