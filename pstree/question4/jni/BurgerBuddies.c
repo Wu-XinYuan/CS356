@@ -65,7 +65,7 @@ int main(int argc,char *argv[]){
     int cashier_num = atoi(argv[2]);
     int customer_num = atoi(argv[3]);
     int rack_num = atoi(argv[4]);
-    if (cook_num==0 || cashier_num==0 || rack_num==0){
+    if (cook_num<=0 || cashier_num<=0 || rack_num<=0){
         printf("input format wrong!\n");
         return 1;
     }

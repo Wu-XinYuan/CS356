@@ -24,4 +24,5 @@ student id:51902191064
 |   |-- Android.mk          # make rule for BurgerBudies.c
 |   |-- BurgerBuddies.c     # simulate the BurgerBuddy Problem
 |-- readmePrj1.md           # this file
+|-- output.txt				# a typescript file clearly showing the working of all the programs
 ```
